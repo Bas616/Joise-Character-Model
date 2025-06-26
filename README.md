@@ -6,8 +6,15 @@ This repository contains a customized 3D character model named "Joise". The proj
 
 This project serves as a personal exercise in 3D modeling, sculpting, and asset modification using tools like Nomad Sculpt.
 
- 
+| Front / Back | Side Views |
+| :---: | :---: |
+| ![Front View of Joise](https://raw.githubusercontent.com/Bas616/Joise-Character-Model/main/Josie_1.png) | ![Side View 1 of Joise](https://raw.githubusercontent.com/Bas616/Joise-Character-Model/main/Josie_2.png) |
+| ![Back View of Joise](https://raw.githubusercontent.com/Bas616/Joise-Character-Model/main/Josie_3.png) | ![Side View 2 of Joise](https://raw.githubusercontent.com/Bas616/Joise-Character-Model/main/Josie_4.png) |
 
+| Top / Bottom |
+| :---: |
+| ![Top View of Joise](https://raw.githubusercontent.com/Bas616/Joise-Character-Model/main/Josie_5.png) |
+| ![Bottom View of Joise](https://raw.githubusercontent.com/Bas616/Joise-Character-Model/main/Josie_6.png) |
 
 ---
 
