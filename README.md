@@ -7,7 +7,7 @@ This repository contains a customized 3D character model named "Joise". The proj
 This project serves as a personal exercise in 3D modeling, sculpting, and asset modification using tools like Nomad Sculpt.
 
  
-*(บาส: นายต้องเอาภาพ `Josie.png` ไปอัปโหลดที่เว็บฝากรูป เช่น imgur.com แล้วเอาลิงก์มาใส่ตรงนี้นะ!)*
+
 
 ---
 
